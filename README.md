@@ -1,5 +1,7 @@
-# py-alarm
-Python alarm with sound
+# Python Alarm
+Python alarm with sound.
+
+
 
 
 
